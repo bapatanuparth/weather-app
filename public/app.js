@@ -1,5 +1,3 @@
-console.log('Javascript here!')
-
 //Use fettch api to connect client side js to html page
 const weatherForm=document.querySelector('form')
 const search=document.querySelector('input')
